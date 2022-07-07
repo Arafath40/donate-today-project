@@ -209,19 +209,61 @@ body{
     font-size: 19px;
   }
 
-  .behumble-part {
+  /* .behumble-part {
     height: 120px;
     width: 100%;
     background-color: black;
   }
 
-  .behumble-part {
-    color: red;
-  }
+    footer h4{
+        height: 177px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        background: #0b0d17;
+        gap: 20px;
+        color: red;
+    }
+    footer p{
+        height: 177px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        background: #0b0d17;
+        gap: 20px;
+        color: white;
+    } */
 
-  footer {
-    color: azure;
-  }
-  
+    footer {
+        height: 177px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        background: #0b0d17;
+        gap: 20px;
+    }
+    
+    footer h4 {
+       
+        font-size: 36px;
+        line-height: 44px;
+        
+    
+       
+    
+        color: #ff5959;
+    }
+    
+    footer p {
+      
+        font-size: 14px;
+        line-height: 24px;
+       
+    
+        color: #d9dbe1;
+    }
   
 
